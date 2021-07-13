@@ -1,7 +1,7 @@
 # Author's Identity. 
 AJAY KUNWAR SINGH(1701410011)
-PANKAJ YADAV(1701410056) 
-Supervior Name- Mr. Ashish Agrawal
+, PANKAJ YADAV(1701410056) 
+,Supervior Name- Mr. Ashish Agrawal
 
 # Files in the CD.
 Meta Folder , Test Folder, Train folder, Archive ,Gui, Tensor Flow, Traffic_sign.py, Traffic_classifier.py, Train.csv, Test.csv . In this section, the names of the files together with their contents must be listed.
